@@ -19,7 +19,7 @@ I love turning small ideas into smart tools using:
 - `Vector Visualizer` – A matplotlib demo of unit vectors
 - `Coming Soon`: Emotion detector, Image classifier, etc.
 
-You can track all my 100 projects here 👉 [100-AI-Projects](https://github.com/Ghina13/100-ai-projects)
+You can track all my 100 projects here 👉 [100-AI-Projects](https://github.com/Ghina-codes/100-ai-projects)
 
 ---
 
