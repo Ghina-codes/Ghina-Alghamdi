@@ -31,11 +31,4 @@ You can track all my 100 projects here 👉 [100-AI-Projects](https://github.com
 
 ---
 
-## 💬 Let's Connect!
-📩 [Twitter](https://twitter.com/yourusername)  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🌐 [My Website](https://yourwebsite.com)
-
----
-
 > “The best way to learn AI is to build like a crazy genius.” — Me 😎
