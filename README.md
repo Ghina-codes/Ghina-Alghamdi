@@ -15,8 +15,8 @@ I love turning small ideas into smart tools using:
 ---
 
 ## 🧪 Current Projects (Early Stage)
-- `Temperature Predictor` – Linear regression for weather
-- `Vector Visualizer` – A matplotlib demo of unit vectors
+- `Weights Concept` – Explains how AI uses dot product to combine inputs and weights
+- `Weights Concept` – Explains how AI uses dot product to combine inputs and weights
 - `Coming Soon`: Emotion detector, Image classifier, etc.
 
 You can track all my 100 projects here 👉 [100-AI-Projects](https://github.com/Ghina-codes/100-ai-projects)
