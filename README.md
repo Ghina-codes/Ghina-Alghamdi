@@ -1,29 +1,35 @@
 <h1 align="center">Hey! I'm Ghina 👩‍💻</h1>
-<p align="center">🌟 AI Explorer | 🇸🇦 Saudi Coder | 🔥 On a 100 AI Projects Mission!</p>
+<p align="center">🇸🇦 Saudi Coder | 🤖 AI Explorer | 🧠 On a Mission to Build 100 Smart Projects!</p>
 
 ---
 
-## 🚀 About Me
-I'm Ghina Alghamdi, a self-taught programmer from Saudi Arabia 🇸🇦  
-I'm currently on a personal challenge: **Build 100 AI Projects in 1 Year!**
+## 🎯 The Mission: 100 AI Projects Challenge
 
-I love turning small ideas into smart tools using:
-- Python 🐍
-- scikit-learn, pandas, matplotlib
-- TensorFlow, Keras, transformers
+I'm currently building **100 artificial intelligence projects** in 1 year — no skipping, no shortcuts.  
+Each one is a real concept: from data cleaning to model prediction and beyond.  
+You can follow the journey 👉 [100-AI-Projects](https://github.com/Ghina-codes/100-ai-projects)
 
 ---
 
-## 🧪 Current Projects (Early Stage)
-- `Weights Concept` – Explains how AI uses dot product to combine inputs and weights
-- `Weights Concept` – Explains how AI uses dot product to combine inputs and weights
-- `Coming Soon`: Emotion detector, Image classifier, etc.
+## ✨ Side Experiments
 
-You can track all my 100 projects here 👉 [100-AI-Projects](https://github.com/Ghina-codes/100-ai-projects)
+Not every brilliant idea fits inside the main challenge —  
+So I create **side projects** to explore math, logic, and AI building blocks in a fun & visual way.  
+They're light, smart, and help me understand the why behind the code.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 What You'll Find Here
+
+- ✅ Real AI models with clear steps  
+- 🛠️ Visual demos (vectors, transformations, dot products…)  
+- 🔁 Step-by-step projects from data to deployment  
+- 💡 Personalized tools that solve actual problems
+
+---
+
+## ⚙️ Tech Stack I Use
+
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
