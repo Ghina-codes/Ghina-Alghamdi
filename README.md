@@ -15,7 +15,6 @@ You can follow the journey 👉 [100-AI-Projects](https://github.com/Ghina-codes
 
 Not every brilliant idea fits inside the main challenge —  
 So I create **side projects** to explore math, logic, and AI building blocks in a fun & visual way.  
-They're light, smart, and help me understand the why behind the code.
 
 ---
 
