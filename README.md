@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Ghina 👩‍💻</h1>
-<p align="center">🇸🇦 Saudi Coder | 🤖 AI Explorer | 🧠 On a Mission to Build 100 Smart Projects!</p>
+<p align="center"> Saudi Coder | 🤖 AI Explorer | 🧠 On a Mission to Build 100 Smart Projects!</p>
 
 ---
 
