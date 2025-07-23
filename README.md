@@ -5,7 +5,7 @@
 
 ## 🎯 The Mission: 100 AI Projects Challenge
 
-I'm currently building **100 artificial intelligence projects** in 1 year — no skipping, no shortcuts.  
+I'm currently building **100 artificial intelligence projects** in 1 year.  
 Each one is a real concept: from data cleaning to model prediction and beyond.  
 You can follow the journey 👉 [100-AI-Projects](https://github.com/Ghina-codes/100-ai-projects)
 
